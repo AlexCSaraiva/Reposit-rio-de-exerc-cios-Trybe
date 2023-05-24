@@ -1,2 +1,2 @@
-Dia 1 de html e css
-Execicios
+Repositório de exercicios Trybe.
+Exercícios do dia em outro local.
