@@ -1,0 +1,26 @@
+
+    body {
+    background-color: black;
+    font-size: 17px;
+    font-family: fantasy, cursive;
+}
+    img {
+    align-items: center;
+}
+    p{
+    color: aliceblue;
+}
+h1{
+    color: aliceblue;
+    font-family: sans-serif;
+    text-align: center;
+}
+h3{
+    color: aliceblue;
+}
+ul{
+    color: aliceblue;
+}
+#pas-tem{
+    color: aliceblue;
+}
